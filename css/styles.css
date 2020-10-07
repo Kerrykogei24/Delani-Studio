@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+.head {
+    background-image: url("../images/backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.service {
+    background-image: url("../images/backgrounds/s_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.port img {
+    width: 200px;
+}

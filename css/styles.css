@@ -175,3 +175,7 @@
         color: #fff;
         padding: 0px;
     }
+    
+    .col ::placeholder {
+        color: #fff;
+    }

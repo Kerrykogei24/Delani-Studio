@@ -14,8 +14,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
+    position: relative;
 }
 
-.port img {
-    width: 200px;
+.port {
+    width: 100%;
 }

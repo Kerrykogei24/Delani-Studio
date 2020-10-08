@@ -118,8 +118,9 @@
         background-repeat: no-repeat;
         background-size: cover;
         height: 60vh;
-        padding: 20px;
+        padding: 30px;
         color: #fff;
+        text-align: center;
     }
     
     .social-img {
@@ -127,4 +128,22 @@
         margin-right: 20px;
         font-size: 40px;
         padding: 20px;
+    }
+    
+    .delani {
+        text-align: center;
+    }
+    
+    .delani h1 {
+        font-size: 20px;
+    }
+    
+    .con h1 {
+        font-size: 20px;
+    }
+    
+    #meso {
+        background: none;
+        height: 20vh;
+        width: 50%;
     }

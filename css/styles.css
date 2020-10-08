@@ -179,3 +179,14 @@
     .col ::placeholder {
         color: #fff;
     }
+    
+    .hide {
+        display: none;
+        cursor: progress;
+    }
+    
+    .hide1,
+    .hide2 {
+        display: none;
+        cursor: progress;
+    }

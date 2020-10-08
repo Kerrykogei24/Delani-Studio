@@ -160,3 +160,18 @@
     #davy ::placeholder {
         color: #fff;
     }
+    
+    .kali {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    
+    .col3 {
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+    
+    .col3 ::placeholder {
+        color: #fff;
+        padding: 0px;
+    }

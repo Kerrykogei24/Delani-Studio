@@ -1,4 +1,4 @@
-.head {
+*.head {
     background-image: url("../images/backgrounds/h_img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,21 +21,33 @@
 }
 
 #logo {
-    margin-top: 12px;
-    margin-bottom: 30px;
-    width: 60px;
-    height: 60px;
+    padding-top: 190px;
+    width: 70px;
 }
 
 .head h1 {
     padding: 3px;
     margin: 6px;
+    font-size: 35px;
+}
+
+.head h2 {
+    padding-top: 20px;
 }
 
 .head p {
     padding: 2px;
+    font-size: small;
 }
 
 .mouse {
-    padding-top: 200px;
+    padding-top: 110px;
+}
+
+.welcome {
+    padding-top: 20px;
+}
+
+#mouse {
+    width: 15px;
 }

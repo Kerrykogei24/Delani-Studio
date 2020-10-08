@@ -145,5 +145,18 @@
     #meso {
         background: none;
         height: 20vh;
-        width: 50%;
+        color: #fff;
+    }
+    
+    #davy {
+        background: none;
+        color: #fff;
+    }
+    
+    #sub {
+        width: 100px;
+    }
+    
+    #davy ::placeholder {
+        color: #fff;
     }

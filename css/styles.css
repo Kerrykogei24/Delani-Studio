@@ -28,6 +28,13 @@
     .port {
         width: 100%;
         text-align: center;
+        padding: 20px;
+    }
+    
+    .port h1 {
+        font-size: 20px;
+        font-weight: bold;
+        padding: 20px;
     }
     
     .port img {
@@ -94,4 +101,17 @@
     .what img {
         width: 50px;
         padding-top: 20px;
+    }
+    
+    .col-md-2 {
+        margin-right: 60px;
+    }
+    
+    .lio {
+        margin-left: 150px;
+        align-items: center;
+    }
+    
+    .con {
+        background-image: url("../images/backgrounds/c_image.jpg");
     }

@@ -77,4 +77,11 @@
 
 .what {
     text-align: center;
+    font-size: small;
+    padding: 40px;
+}
+
+.what h1 {
+    font-size: 20px;
+    font-weight: bold;
 }

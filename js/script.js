@@ -30,6 +30,14 @@ $(document).ready(function() {
         $(".hide1").hide(2000);
         $(".show1").show(2000);
     });
+    $(".show2").click(function() {
+        $(".show2").hide(2000);
+        $(".hide2").show(2000);
+    });
+    $(".hide2").click(function() {
+        $(".hide2").hide(2000);
+        $(".show2").show(2000);
+    });
 
 
 

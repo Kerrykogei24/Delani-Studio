@@ -205,11 +205,25 @@
                             display: none;
                             position: absolute;
                             width: 100%;
-                            min-height: 50%;
+                            min-height: 60%;
                             background: rgba(0, 0, 0, 0.582);
                             transition: all 0.5s ease;
                             color: #fff;
                             text-align: center;
                             border: 2px solid #fff;
                             align-items: center;
+                            margin-left: 21px;
+                            margin-top: 35px;
+                        }
+                        
+                        #pic p,
+                        #pic1 p,
+                        #pic2 p,
+                        #pic3 p,
+                        #pic4 p,
+                        #pic5 p,
+                        #pic6 p,
+                        #pic7 p {
+                            text-align: center;
+                            margin-top: 20px;
                         }

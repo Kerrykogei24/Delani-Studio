@@ -39,6 +39,6 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $(".pic").mouseover(function() {
-        $("#pic").toggle(1000, "linear");
+        $("#pic").toggle(1000);
     });
 });

@@ -38,7 +38,7 @@ $(document).ready(function() {
 // })
 
 $(document).ready(function() {
-    $(".pic").hover(function() {
+    $(".pic").mouseover(function() {
         $("#pic").toggle(1000, "linear");
     });
 });

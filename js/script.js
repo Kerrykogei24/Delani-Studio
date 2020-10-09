@@ -25,3 +25,20 @@ $(document).ready(function() {
         $(".show2").show(2000);
     });
 });
+
+
+//portfolio hover effect
+
+// $(document).ready(function() {
+
+//     $(".pic").mouseover(function() {
+
+//         $("#pic").show();
+//     });
+// })
+
+$(document).ready(function() {
+    $(".pic").hover(function() {
+        $("#pic").toggle(1000, "linear");
+    });
+});

@@ -107,11 +107,10 @@
     .col-md-2 {
         margin-right: 60px;
     }
-    
-    .lio {
+    /* .lio {
         margin-left: 150px;
         align-items: center;
-    }
+    } */
     
     .con {
         background-image: url("../images/backgrounds/c_image.jpg");
@@ -194,4 +193,26 @@
     .hide2 {
         display: none;
         cursor: progress;
+    }
+    
+    #pic,
+    #pic1,
+    #pic2,
+    #pic3,
+    #pic4,
+    #pic5,
+    #pic6,
+    #pic7 {
+        display: none;
+        position: absolute;
+        width: 100%;
+        min-height: 50%;
+        background: rgba(0, 0, 0, 0.582);
+        transition: all 0.5s ease;
+        color: #fff;
+        text-align: center;
+        margin-top: 20%;
+        margin-left: 16%;
+        border: 2px solid #fff;
+        align-items: center;
     }

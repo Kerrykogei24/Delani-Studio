@@ -68,3 +68,18 @@ $(document).ready(function() {
         $("#pic7").toggle(400);
     });
 });
+
+
+$(document).ready(function() {
+    $(".row input").submit(function() {
+        var user = $("input#Name").val();
+        var email = $("input#Email").val();
+        // var message = $("input#Name").val();
+
+        if ($("input#Name").val() && $("input#Email").val()) {
+            alert(user + ",We have received your message. Thank you for reaching out to us");
+        } else {
+            alert("Enter you Email");
+        }
+    })
+})

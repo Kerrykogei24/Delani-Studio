@@ -21,7 +21,16 @@ $(document).ready(function() {
         $(".hide").hide(2000);
         $(".show").show(2000);
 
-    })
+    });
+    $(".show1").click(function() {
+        $(".show1").hide(2000);
+        $(".hide1").show(2000);
+    });
+    $(".hide1").click(function() {
+        $(".hide1").hide(2000);
+        $(".show1").show(2000);
+    });
+
 
 
 });

@@ -24,11 +24,12 @@
                         .service h1 {
                             font-size: 20px;
                         }
-                        /* .port {
-        width: 100%;
-        text-align: center;
-        padding: 20px;
-    } */
+                        
+                        .port {
+                            width: 100%;
+                            text-align: center;
+                            padding: 20px;
+                        }
                         
                         .port h1 {
                             font-size: 20px;
@@ -106,10 +107,11 @@
                         .col-md-2 {
                             margin-right: 60px;
                         }
-                        /* .lio {
-        margin-left: 150px;
-        align-items: center;
-    } */
+                        
+                        .lio {
+                            margin-left: 150px;
+                            align-items: center;
+                        }
                         
                         .con {
                             background-image: url("../images/backgrounds/c_image.jpg");
@@ -204,7 +206,7 @@
                         #pic7 {
                             display: none;
                             position: absolute;
-                            width: 100%;
+                            width: 120%;
                             min-height: 60%;
                             background: rgba(0, 0, 0, 0.582);
                             transition: all 0.5s ease;
@@ -215,16 +217,5 @@
                             text-align: center;
                             font-weight: bold;
                             font-size: 20px;
-                        }
-                        
-                        #pic p,
-                        #pic1 p,
-                        #pic2 p,
-                        #pic3 p,
-                        #pic4 p,
-                        #pic5 p,
-                        #pic6 p,
-                        #pic7 p {
-                            text-align: center;
-                            margin-top: 20px;
+                            cursor: progress;
                         }

@@ -70,16 +70,17 @@ $(document).ready(function() {
 });
 
 
-$(document).ready(function() {
-    $(".row input").submit(function() {
-        var user = $("input#Name").val();
-        var email = $("input#Email").val();
-        // var message = $("input#Name").val();
+$(document).ready(function(event) {
+    $("#lekam").submit(function() {
+        var user = $("input#davy").val();
+        var email = $("input#davy2").val();
+        var message = $("input#meso").val();
 
-        if ($("input#Name").val() && $("input#Email").val()) {
+        if ($("input#davy").val() && $("input#davy2").val()) {
             alert(user + ",We have received your message. Thank you for reaching out to us");
         } else {
             alert("Enter you Email");
         }
+        event.preventDefault();
     })
 })

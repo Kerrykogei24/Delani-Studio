@@ -147,12 +147,12 @@
                             color: #fff;
                         }
                         
-                        #davy {
+                        #name {
                             background: none;
                             color: #fff;
                         }
                         
-                        #davy2 {
+                        #email {
                             background: none;
                             color: #fff;
                         }
@@ -161,7 +161,7 @@
                             width: 100px;
                         }
                         
-                        #davy ::placeholder {
+                        #name ::placeholder {
                             color: #fff;
                         }
                         

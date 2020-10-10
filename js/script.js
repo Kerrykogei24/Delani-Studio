@@ -74,5 +74,12 @@ $(document).ready(function() {
 
 function myFunction() {
     var kerry = document.getElementById("name").value;
-    alert(kerry + ",We have received your message. Thank you for reaching out to us");
+    var joker = document.getElementById("email").value;
+
+    if ((joker) && (kerry)) {
+
+        alert(kerry + ",We have received your message. Thank you for reaching out to us");
+    } else {
+        alert("enter you email address")
+    }
 }

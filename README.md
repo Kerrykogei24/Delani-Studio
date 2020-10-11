@@ -13,12 +13,13 @@
 *JQUERY
 *JAVASCRIPT
 *BOOTSTRAP
+---
 #### project image
 ![Kerrykogei](./images/ Delani Studio.jpg)
 ---
 ### Git Hub Live Link
 
-[]()
+[Delani Studio](https://kerrykogei24.github.io/Delani-Studio/)
 
 ## Copyright and License
 MIT License

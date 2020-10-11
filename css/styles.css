@@ -1,257 +1,257 @@
-                        .head {
-                            background-image: url("../images/backgrounds/h_img.jpg");
-                            background-repeat: no-repeat;
-                            background-size: cover;
-                            color: #fff;
-                            background-position: center;
-                            text-align: center;
-                        }
-                        
-                        .service {
-                            background-image: url("../images/backgrounds/s_image.jpg");
-                            background-repeat: no-repeat;
-                            background-size: cover;
-                            color: #fff;
-                            position: relative;
-                            text-align: center;
-                            height: 40vh;
-                            font-size: small;
-                            padding-top: 90px;
-                            line-height: 20px;
-                        }
-                        
-                        .service h1 {
-                            font-size: 20px;
-                        }
-                        
-                        .port {
-                            width: 100%;
-                            text-align: center;
-                            padding: 20px;
-                        }
-                        
-                        .port h1 {
-                            font-size: 20px;
-                            font-weight: bold;
-                            padding: 20px;
-                            margin-left: 60px;
-                        }
-                        
-                        .port img {
-                            width: 200px;
-                        }
-                        
-                        #logo {
-                            padding-top: 190px;
-                            width: 70px;
-                        }
-                        
-                        .head h1 {
-                            padding: 3px;
-                            margin: 6px;
-                            font-size: 35px;
-                        }
-                        
-                        .head h2 {
-                            padding-top: 20px;
-                        }
-                        
-                        .head p {
-                            padding: 2px;
-                            font-size: small;
-                        }
-                        
-                        #mouse {
-                            padding-top: 110px;
-                        }
-                        
-                        .welcome {
-                            padding-top: 20px;
-                        }
-                        
-                        .mouse {
-                            width: 15px;
-                        }
-                        
-                        #about {
-                            text-align: center;
-                            padding: 20px;
-                        }
-                        
-                        #about p {
-                            font-size: small;
-                        }
-                        
-                        #about h1 {
-                            font-size: 20px;
-                            font-weight: bold;
-                        }
-                        
-                        .what {
-                            text-align: center;
-                            font-size: 16px;
-                            padding: 40px;
-                        }
-                        
-                        .what h1 {
-                            font-size: 20px;
-                            font-weight: bold;
-                        }
-                        
-                        .what img {
-                            width: 50px;
-                            padding-top: 20px;
-                        }
-                        
-                        .col-md-2 {
-                            margin-right: 60px;
-                        }
-                        
-                        .lio {
-                            margin-left: 150px;
-                            align-items: center;
-                        }
-                        
-                        .con {
-                            background-image: url("../images/backgrounds/c_image.jpg");
-                            background-repeat: no-repeat;
-                            background-size: cover;
-                            height: 60vh;
-                            padding: 30px;
-                            color: #fff;
-                            text-align: center;
-                        }
-                        
-                        .social-img {
-                            text-align: center;
-                            margin-right: 20px;
-                            font-size: 40px;
-                            padding: 20px;
-                        }
-                        
-                        .delani {
-                            text-align: center;
-                        }
-                        
-                        .delani h1 {
-                            font-size: 20px;
-                        }
-                        
-                        .con h1 {
-                            font-size: 20px;
-                        }
-                        
-                        #meso {
-                            background: none;
-                            height: 20vh;
-                            color: #fff;
-                        }
-                        
-                        #name {
-                            background: none;
-                            color: #fff;
-                        }
-                        
-                        #email {
-                            background: none;
-                            color: #fff;
-                        }
-                        
-                        #sub {
-                            width: 100px;
-                        }
-                        
-                        #name ::placeholder {
-                            color: #fff;
-                        }
-                        
-                        .kali {
-                            margin-left: 100px;
-                            margin-right: 100px;
-                        }
-                        
-                        .col3 {
-                            margin-left: 150px;
-                            margin-right: 150px;
-                        }
-                        
-                        .col3 ::placeholder {
-                            color: #fff;
-                            padding: 0px;
-                        }
-                        
-                        .col ::placeholder {
-                            color: #fff;
-                        }
-                        
-                        .hide {
-                            display: none;
-                            cursor: progress;
-                        }
-                        
-                        .hide1,
-                        .hide2 {
-                            display: none;
-                            cursor: progress;
-                        }
-                        
-                        #pic,
-                        #pic1,
-                        #pic2,
-                        #pic3,
-                        #pic4,
-                        #pic5,
-                        #pic6,
-                        #pic7 {
-                            display: none;
-                            position: absolute;
-                            width: 120%;
-                            min-height: 60%;
-                            background: rgba(0, 0, 0, 0.582);
-                            transition: all 0.5s ease;
-                            color: #fff;
-                            border: 2px solid #fff;
-                            margin-left: 21px;
-                            margin-top: 35px;
-                            text-align: center;
-                            font-weight: bold;
-                            font-size: 20px;
-                            cursor: progress;
-                        }
-                        /* .stage {
+                            .head {
+                                background-image: url("../images/backgrounds/h_img.jpg");
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                color: #fff;
+                                background-position: center;
+                                text-align: center;
+                            }
+                            
+                            .service {
+                                background-image: url("../images/backgrounds/s_image.jpg");
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                color: #fff;
+                                position: relative;
+                                text-align: center;
+                                height: 40vh;
+                                font-size: small;
+                                padding-top: 90px;
+                                line-height: 20px;
+                            }
+                            
+                            .service h1 {
+                                font-size: 20px;
+                            }
+                            
+                            .port {
+                                width: 100%;
+                                text-align: center;
+                                padding: 20px;
+                            }
+                            
+                            .port h1 {
+                                font-size: 20px;
+                                font-weight: bold;
+                                padding: 20px;
+                                margin-left: 60px;
+                            }
+                            
+                            .port img {
+                                width: 200px;
+                            }
+                            
+                            #logo {
+                                padding-top: 190px;
+                                width: 70px;
+                            }
+                            
+                            .head h1 {
+                                padding: 3px;
+                                margin: 6px;
+                                font-size: 35px;
+                            }
+                            
+                            .head h2 {
+                                padding-top: 20px;
+                            }
+                            
+                            .head p {
+                                padding: 2px;
+                                font-size: small;
+                            }
+                            
+                            #mouse {
+                                padding-top: 110px;
+                            }
+                            
+                            .welcome {
+                                padding-top: 20px;
+                            }
+                            
+                            .mouse {
+                                width: 15px;
+                            }
+                            
+                            #about {
+                                text-align: center;
+                                padding: 20px;
+                            }
+                            
+                            #about p {
+                                font-size: small;
+                            }
+                            
+                            #about h1 {
+                                font-size: 20px;
+                                font-weight: bold;
+                            }
+                            
+                            .what {
+                                text-align: center;
+                                font-size: 16px;
+                                padding: 40px;
+                            }
+                            
+                            .what h1 {
+                                font-size: 20px;
+                                font-weight: bold;
+                            }
+                            
+                            .what img {
+                                width: 50px;
+                                padding-top: 20px;
+                            }
+                            
+                            .col-md-2 {
+                                margin-right: 60px;
+                            }
+                            
+                            .lio {
+                                margin-left: 150px;
+                                align-items: center;
+                            }
+                            
+                            .con {
+                                background-image: url("../images/backgrounds/c_image.jpg");
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                height: 60vh;
+                                padding: 30px;
+                                color: #fff;
+                                text-align: center;
+                            }
+                            
+                            .social-img {
+                                text-align: center;
+                                margin-right: 20px;
+                                font-size: 40px;
+                                padding: 20px;
+                            }
+                            
+                            .delani {
+                                text-align: center;
+                            }
+                            
+                            .delani h1 {
+                                font-size: 20px;
+                            }
+                            
+                            .con h1 {
+                                font-size: 20px;
+                            }
+                            
+                            #meso {
+                                background: none;
+                                height: 20vh;
+                                color: #fff;
+                            }
+                            
+                            #name {
+                                background: none;
+                                color: #fff;
+                            }
+                            
+                            #email {
+                                background: none;
+                                color: #fff;
+                            }
+                            
+                            #sub {
+                                width: 100px;
+                            }
+                            
+                            #name ::placeholder {
+                                color: #fff;
+                            }
+                            
+                            .kali {
+                                margin-left: 100px;
+                                margin-right: 100px;
+                            }
+                            
+                            .col3 {
+                                margin-left: 150px;
+                                margin-right: 150px;
+                            }
+                            
+                            .col3 ::placeholder {
+                                color: #fff;
+                                padding: 0px;
+                            }
+                            
+                            .col ::placeholder {
+                                color: #fff;
+                            }
+                            
+                            .hide {
+                                display: none;
+                                cursor: progress;
+                            }
+                            
+                            .hide1,
+                            .hide2 {
+                                display: none;
+                                cursor: progress;
+                            }
+                            
+                            #pic,
+                            #pic1,
+                            #pic2,
+                            #pic3,
+                            #pic4,
+                            #pic5,
+                            #pic6,
+                            #pic7 {
+                                display: none;
+                                position: absolute;
+                                width: 120%;
+                                min-height: 60%;
+                                background: rgba(0, 0, 0, 0.582);
+                                transition: all 0.5s ease;
+                                color: #fff;
+                                border: 2px solid #fff;
+                                margin-left: 21px;
+                                margin-top: 35px;
+                                text-align: center;
+                                font-weight: bold;
+                                font-size: 20px;
+                                cursor: progress;
+                            }
+                            /* .stage {
                             border-bottom: 3px solid #444;
                             display: flex;
                             height: 330px;
                             width: 100%;
                         }
                          */
-                        
-                        .box {
-                            align-self: flex-end;
-                            animation-duration: 2s;
-                            animation-iteration-count: infinite;
-                            margin: 0 auto 0 auto;
-                            transform-origin: bottom;
-                            width: 15px;
-                        }
-                        
-                        .bounce-7 {
-                            animation-name: bounce-7;
-                            animation-timing-function: cubic-bezier(0.280, 0.840, 0.420, 1);
-                        }
-                        
-                        @keyframes bounce-7 {
-                            0% {
+                            
+                            .box {
+                                align-self: flex-end;
+                                animation-duration: 2s;
+                                animation-iteration-count: infinite;
+                                margin: 0 auto 0 auto;
+                                transform-origin: bottom;
+                                width: 15px;
+                            }
+                            
+                            .bounce-7 {
+                                animation-name: bounce-7;
+                                animation-timing-function: cubic-bezier(0.280, 0.840, 0.420, 1);
+                            }
+                            
+                            @keyframes bounce-7 {
+                                /* 0% {
                                 transform: scale(1, 1) translateY(0);
                             }
                             10% {
                                 transform: scale(1.1, .9) translateY(0);
                             }
                             30% {
-                                transform: scale(.9, 1.1) translateY(-100px);
+                                transform: scale() translateY(-100px);
                             }
                             50% {
-                                transform: scale(1.05, .95) translateY(0);
+                                transform: scale() translateY(0);
                             }
                             57% {
                                 transform: scale(1, 1) translateY(-7px);
@@ -261,5 +261,26 @@
                             }
                             100% {
                                 transform: scale(1, 1) translateY(0);
+                            } */
+                                0% {
+                                    transform: scale(1, 1);
+                                }
+                                10% {
+                                    transform: scale(1.1, .9) translateY(0);
+                                }
+                                30% {
+                                    transform: scale() translateY(-100px);
+                                }
+                                50% {
+                                    transform: scale() translateY(0);
+                                }
+                                57% {
+                                    transform: scale(1, 1) translateY(-7px);
+                                }
+                                64% {
+                                    transform: scale(1, 0) translateY(0);
+                                }
+                                100% {
+                                    transform: scale(1, 1) translateY(0);
+                                }
                             }
-                        }

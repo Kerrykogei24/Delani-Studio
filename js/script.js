@@ -80,6 +80,6 @@ function myFunction() {
 
         alert(kerry + ",We have received your message. Thank you for reaching out to us");
     } else {
-        alert("enter you email address")
+        alert("Please Enter you email address")
     }
 }

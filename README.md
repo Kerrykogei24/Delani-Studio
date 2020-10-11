@@ -4,7 +4,7 @@
 ---
 ## Setup instructions
 * Launch your browser
-* on your search bar white [https://github.com/Kerrykogei24/Kerry-Portfolio](https://github.com/Kerrykogei24/Kerry-Portfolio)
+* on your search bar write []()
 * on github click the link and you ready to go.
 ---
 ## LANGUAGES USED
@@ -13,12 +13,13 @@
 *JQUERY
 *JAVASCRIPT
 *BOOTSTRAP
+---
 #### project image
 ![Kerrykogei](./images/ Delani Studio.jpg)
 ---
 ### Git Hub Live Link
 
-[https://kerrykogei24.github.io/Kerry-Portfolio/](https://kerrykogei24.github.io/Kerry-Portfolio/)
+[Delani Studio](https://kerrykogei24.github.io/Delani-Studio/)
 
 ## Copyright and License
 MIT License

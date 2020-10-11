@@ -152,7 +152,7 @@
                                 color: #fff;
                             }
                             
-                            #email {
+                            #mce-EMAIL {
                                 background: none;
                                 color: #fff;
                             }
@@ -262,4 +262,11 @@
                                 100% {
                                     transform: scale(1, 1) translateY(0);
                                 }
+                            }
+                            
+                            #mc_embed_signup {
+                                background: #fff;
+                                clear: left;
+                                font: 14px Helvetica, Arial, sans-serif;
+                                width: 100%;
                             }

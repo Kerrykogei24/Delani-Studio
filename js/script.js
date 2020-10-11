@@ -74,7 +74,7 @@ $(document).ready(function() {
 
 function myFunction() {
     var kerry = document.getElementById("name").value;
-    var joker = document.getElementById("email").value;
+    var joker = document.getElementById("mce-EMAIL").value;
 
     if ((joker) && (kerry)) {
 

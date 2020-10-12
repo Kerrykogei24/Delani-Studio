@@ -1,41 +1,33 @@
 $(document).ready(function() {
     $(".show").click(function() {
-        $(".show").hide(2000);
-        $(".hide").show(2000);
+        $(".show").toggle(2000);
+        $(".hide").toggle(2000);
     });
     $(".hide").click(function() {
-        $(".hide").hide(2000);
-        $(".show").show(2000);
+        $(".hide").toggle(2000);
+        $(".show").toggle(2000);
 
     });
     $(".show1").click(function() {
-        $(".show1").hide(2000);
-        $(".hide1").show(2000);
+        $(".show1").toggle(2000);
+        $(".hide1").toggle(2000);
     });
     $(".hide1").click(function() {
-        $(".hide1").hide(2000);
-        $(".show1").show(2000);
+        $(".hide1").toggle(2000);
+        $(".show1").toggle(2000);
     });
     $(".show2").click(function() {
-        $(".show2").hide(2000);
-        $(".hide2").show(2000);
+        $(".show2").toggle(2000);
+        $(".hide2").toggle(2000);
     });
     $(".hide2").click(function() {
-        $(".hide2").hide(2000);
-        $(".show2").show(2000);
+        $(".hide2").toggle(2000);
+        $(".show2").toggle(2000);
     });
 });
 
 
-//portfolio hover effect
 
-// $(document).ready(function() {
-
-//     $(".pic").mouseover(function() {
-
-//         $("#pic").show();
-//     });
-// })
 
 $(document).ready(function() {
     $(".pic").hover(function() {
@@ -73,12 +65,12 @@ $(document).ready(function() {
 
 
 function myFunction() {
-    var kerry = document.getElementById("name").value;
-    var joker = document.getElementById("mce-EMAIL").value;
+    var name = document.getElementById("name").value;
+    var email = document.getElementById("mce-EMAIL").value;
 
-    if ((joker) && (kerry)) {
+    if ((name) && (email)) {
 
-        alert(kerry + ",We have received your message. Thank you for reaching out to us");
+        alert(name + ",We have received your message. Thank you for reaching out to us");
     } else {
         alert("Please Enter you email address")
     }

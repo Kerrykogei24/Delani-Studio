@@ -4,18 +4,17 @@
 ---
 ## Setup instructions
 * Launch your browser
-* on your search bar write []()
+* on your search bar write [https://github.com/Kerrykogei24/Delani-Studio](https://github.com/Kerrykogei24/Delani-Studio)
 * on github click the link and you ready to go.
 ---
 ## LANGUAGES USED
-*HTML
-*CSS
-*JQUERY
-*JAVASCRIPT
-*BOOTSTRAP
+* HTML
+* CSS
+* JQUERY
+* JAVASCRIPT
+* BOOTSTRAP
 ---
-#### project image
-![Kerrykogei](./images/ Delani Studio.jpg)
+
 ---
 ### Git Hub Live Link
 
